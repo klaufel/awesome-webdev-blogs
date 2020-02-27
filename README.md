@@ -1,6 +1,6 @@
-# 👋 A awesome web development blogs, podcast and resources
+# A awesome web development blogs and resources
 
-### Blogs
+### :blue_book: Blogs
 * https://css-tricks.com/
 * https://www.smashingmagazine.com/
 * https://hackernoon.com/
@@ -9,12 +9,14 @@
 * https://onextrapixel.com/
 * https://code.tutsplus.com/
 * https://csswizardry.com/archive/
-* https://midu.dev/
 * https://bradfrost.com/blog/
+* https://octuweb.com/ (Spanish)
+* https://midu.dev/ (Spanish)
 
-### Telegram channels
+
+### :email: Telegram channels
 * https://t.me/nucliresources
 A channel to share resources about Web Development, UI Design, Animation, Web Performance, Media Optimization and other resources related, like Creative Coding :blush:
 
-### Podcast
-* https://midu.dev/what-the-front-podcast/
+### :speaker: Podcast
+* https://midu.dev/what-the-front-podcast/ (Spanish)
